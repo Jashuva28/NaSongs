@@ -4,3 +4,7 @@ tr{
 img {
     display: block;
 }
+th a {
+    color: black;
+    text-decoration: none;
+}
